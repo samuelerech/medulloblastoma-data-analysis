@@ -13,7 +13,7 @@ Requires Python 3.8+. Clone the repository, install dependencies via `pip instal
 
 ## 📉 Key Insights & Results
 1. **Age Distribution:** SHH is bimodal (infants and adults); Groups 3 and 4 are strictly pediatric.
-   <img width="636" height="417" alt="image" src="https://github.com/user-attachments/assets/80c97bdf-9424-45a1-ad9e-a0a7823ea0bb" />
+   <img width="632" height="435" alt="image" src="https://github.com/user-attachments/assets/3cf3f20d-a10b-4050-8a1b-66f30730643f" />
 
 2. **Mutations & Ploidy:** SHH/WNT have higher baseline mutation counts.
    <img width="631" height="431" alt="image" src="https://github.com/user-attachments/assets/6fa57c0d-3e27-4b82-8fe4-8471bf275429" />
